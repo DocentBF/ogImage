@@ -1,0 +1,13 @@
+Changelog for ogImage.
+
+1.0.3-pl
+==============
+- Добавлены параметры vPadding и hPadding.
+
+1.0.2-pl
+==============
+- Добавлен параметр resId.
+
+1.0.0-pl
+==============
+- Initial release.
